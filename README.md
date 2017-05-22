@@ -1,1 +1,1 @@
-# comotion-token
+# mobility token
